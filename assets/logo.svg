@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="shep logo: a shepherd in a straw hat with a terminal prompt for a face, holding a crook that hooks a green host dot">
+  <path d="M190 214V76a20 20 0 0 1 40 0v8" fill="none" stroke="#e0a93b" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="210" cy="78" r="8" fill="#22c55e"/>
+  <path d="M44 214c0-44 28-62 60-62s60 18 60 62z" fill="#94a3b8"/>
+  <path d="M146 182l42-28" fill="none" stroke="#94a3b8" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="104" cy="122" r="34" fill="#334155"/>
+  <path d="M72 92c0-40 64-40 64 0z" fill="#e0a93b"/>
+  <ellipse cx="104" cy="92" rx="62" ry="12" fill="#e0a93b"/>
+  <path d="M90 114l13 11-13 11" fill="none" stroke="#4ade80" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="108" y="134" width="18" height="7" rx="3.5" fill="#4ade80"/>
+</svg>
